@@ -1,5 +1,5 @@
 # Breast_Cancer_Detection
-Breast Cancer Detection using Decision Tree and GridSearchCV
+Breast Cancer Detection using Decision Tree and Random Forest
 
 
 Data:
